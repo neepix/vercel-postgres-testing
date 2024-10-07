@@ -15,10 +15,10 @@ export default function Home() {
         />
         <ol>
           <li>
-            Ciao!!!!!!!!!!!!!!<code>app/page.tsx</code>.
+            Ciao<code>app/page.tsx</code>.
           </li>
           <li>Save and see your changes instantly.</li>
-        </ol>
+        </ol>SHA256:gxDuOkjenwZI2iJsWWgku52Nv96JPgvn4Vb4fPwC+1U neepa.sini@gmail.com
 
         <div className={styles.ctas}>
           <a
